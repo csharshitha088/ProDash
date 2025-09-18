@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Productivity Dashboard",
+  "version": "1.0",
+  "description": "A simple productivity dashboard with To-Do, Pomodoro, and Notes.",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "permissions": []
+}
